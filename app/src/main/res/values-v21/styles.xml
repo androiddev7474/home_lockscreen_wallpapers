@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <style name="MaterialTheme" parent="ParentMaterialTheme">
+        <item name="android:colorControlHighlight">#e1f5fe</item>
+        <item name="android:colorButtonNormal">@color/colorPrimaryDark</item>
+        <item name="android:textColor">#ebeced</item>
+        <item name="android:colorControlActivated">#01579b</item>
+
+    </style>
+
+
+    <style name="MyCustomTabLayout" parent="Widget.Design.TabLayout">
+        <item name="tabTextAppearance">@style/MyCustomTabText</item>
+        <item name="tabSelectedTextColor">@color/tabTextColor</item>
+        <item name="tabIndicatorColor">@color/tabIndicatorColor</item>
+    </style>
+
+
+    <style name="MyCustomTabText" parent="TextAppearance.AppCompat.Button">
+        <item name="android:textSize">14sp</item>
+        <item name="android:textColor">@color/tabTextColor</item>
+    </style>
+
+
+
+</resources>

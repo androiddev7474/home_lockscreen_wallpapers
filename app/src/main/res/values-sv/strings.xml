@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Skärm Bakgrunder</string>
+
+    <!-- TAB -->
+
+    <string name="gallery">GALLERI</string>
+    <string name="favorites">FAVORITER</string>
+
+    <!-- SAVE FRAGMENT -->
+    <string name="service_text">Aktivera tjänst för att ändra bakgrund regelbundet</string>
+
+
+    <!-- TRASCH CAN FRAGMENT -->
+    <string name="trash_remove_marked_gallery">Ta bort markeringar från galleriet</string>
+    <string name="trash_remove_marked_images_favorites">Ta bort markerade bilder från favoriter</string>
+    <string name="trash_remove_all_favorites">Ta bort samtliga favoriter</string>
+
+    <!-- INTRO ANIM FRAGMENT -->
+    <string name="smiley_statement">Goddag!!! Ledsen att det är så begränsat med bilder, men tanken är
+    att de ska hålla bästa möjliga kvalitet och fyllas ut så småningom. Dessutom kommer telefonens galleri
+    så småningom integreras med appen så favoritet och bildspel kommer att kunna skapas utifrån detta
+    Tack för ordet - Jag kommer inte tillbaka nästa du appen startar - dock kan du hitta mig under Info
+    </string>
+
+
+</resources>

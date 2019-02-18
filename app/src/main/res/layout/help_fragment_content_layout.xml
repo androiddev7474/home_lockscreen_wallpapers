@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        >
+
+        <ImageView
+            android:layout_width="@dimen/fragment_cross_dimen"
+            android:layout_height="@dimen/fragment_cross_dimen"
+            android:layout_gravity="top|right"
+            android:src="@drawable/cross"
+            android:onClick="onDismissFragment"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:text="@string/help_fragment_title"
+            android:textColor="@color/fragmentTextColor"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:lineSpacingExtra="@dimen/line_space"
+            android:text="@string/help_fragment_intro_text"
+            android:textColor="@color/fragmentTextColor"
+            />
+
+        <GridLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="20dp"
+            android:columnCount="2"
+            android:rowCount="3"
+            >
+
+            <!-- låst-symbol samt text -->
+            <ImageView
+                android:layout_width="@dimen/help_fragment_symbol_dimen"
+                android:layout_height="@dimen/help_fragment_symbol_dimen"
+                android:src="@drawable/locked"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/help_fragment_symbol_margin_left"
+                android:text="@string/help_fragment_locked_symbol_text"
+                android:textColor="@color/fragmentTextColor"
+                />
+
+            <!-- hem-symbol samt text -->
+            <ImageView
+                android:layout_width="@dimen/help_fragment_symbol_dimen"
+                android:layout_height="@dimen/help_fragment_symbol_dimen"
+                android:src="@drawable/home"
+                />
+    '
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/help_fragment_symbol_margin_left"
+                android:text="@string/help_fragment_home_symbol_text"
+                android:textColor="@color/fragmentTextColor"
+                />
+
+            <!-- alla-symbol samt text -->
+            <ImageView
+                android:layout_width="@dimen/help_fragment_symbol_dimen"
+                android:layout_height="@dimen/help_fragment_symbol_dimen"
+                android:src="@drawable/all"
+                />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/help_fragment_symbol_margin_left"
+                android:text="@string/help_fragment_all_symbol_text"
+                android:textColor="@color/fragmentTextColor"
+                />
+        </GridLayout>
+
+    </LinearLayout>
+</ScrollView>

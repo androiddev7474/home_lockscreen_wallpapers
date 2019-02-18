@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/delete"
+        android:icon="@drawable/trash"
+        android:orderInCategory="1"
+        android:title="delete"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/save"
+        android:icon="@drawable/save"
+        android:orderInCategory="1"
+        android:title="save"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/help"
+        android:icon="@drawable/help"
+        android:orderInCategory="1"
+        android:title="help"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/rate"
+        android:icon="@drawable/rate"
+        android:orderInCategory="1"
+        android:title="rate"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/about"
+        android:icon="@drawable/about"
+        android:orderInCategory="1"
+        android:title="about"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/timer"
+        android:icon="@drawable/timer"
+        android:orderInCategory="1"
+        android:title="about"
+        app:showAsAction="always"/>
+
+
+    <!--
+    <item
+        android:id="@+id/settings"
+        android:orderInCategory="100"
+        android:title="Setting"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/edit"
+        android:orderInCategory="100"
+        android:title="Edit"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/exit"
+        android:orderInCategory="100"
+        android:title="Exit"
+        app:showAsAction="never"/>
+        -->
+
+</menu>

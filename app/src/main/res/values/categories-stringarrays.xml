@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- BILDER -->
+
+    <array name="images_thumbs">
+        <item>@drawable/cities1_thumb</item>
+        <item>@drawable/cities2_thumb</item>
+        <item>@drawable/cities3_thumb</item>
+        <item>@drawable/nature2_thumb</item>
+        <item>@drawable/nature4_thumb</item>
+        <item>@drawable/nature5_thumb</item>
+        <item>@drawable/nature6_thumb</item>
+        <item>@drawable/nature7_thumb</item>
+        <item>@drawable/nature8_thumb</item>
+        <item>@drawable/nature9_thumb</item>
+        <item>@drawable/nature10_thumb</item>
+        <item>@drawable/nature11_thumb</item>
+        <item>@drawable/nature12_thumb</item>
+        <item>@drawable/nature13_thumb</item>
+        <item>@drawable/nature14_thumb</item>
+        <item>@drawable/universe1_thumb</item>
+        <item>@drawable/universe2_thumb</item>
+        <item>@drawable/universe3_thumb</item>
+        <item>@drawable/universe4_thumb</item>
+        <item>@drawable/universe5_thumb</item>
+        <item>@drawable/gold1_thumb</item>
+        <item>@drawable/gold2_thumb</item>
+        <item>@drawable/drops1_thumb</item>
+
+    </array>
+
+    <array name="images">
+        <item>@raw/cities1</item>
+        <item>@raw/cities2</item>
+        <item>@raw/cities3</item>
+        <item>@raw/nature2</item>
+        <item>@raw/nature4</item>
+        <item>@raw/nature5</item>
+        <item>@raw/nature6</item>
+        <item>@raw/nature7</item>
+        <item>@raw/nature8</item>
+        <item>@raw/nature9</item>
+        <item>@raw/nature10</item>
+        <item>@raw/nature11</item>
+        <item>@raw/nature12</item>
+        <item>@raw/nature13</item>
+        <item>@raw/nature14</item>
+        <item>@raw/universe1</item>
+        <item>@raw/universe2</item>
+        <item>@raw/universe3</item>
+        <item>@raw/universe4</item>
+        <item>@raw/universe5</item>
+        <item>@raw/gold1</item>
+        <item>@raw/gold2</item>
+        <item>@raw/drops1</item>
+    </array>
+
+
+
+</resources>

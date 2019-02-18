@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="image_info_text">
+
+        <item>Auytthay</item>
+        <item>Bangkok</item>
+        <item>Bangkok - Silom</item>
+        <item>Himalya</item>
+        <item>Geopard</item>
+        <item>Fjäril</item>
+        <item>Fjäril</item>
+        <item>Amazonas</item>
+        <item>Papegoja Amazonas</item>
+        <item>Amazonas</item>
+        <item>Papegoja</item>
+        <item>Amazonas</item>
+        <item>Stilla Havet</item>
+        <item>Stilla Havet</item>
+        <item>Himalya</item>
+        <item>Jorden</item>
+        <item>Månen</item>
+        <item>Jorden</item>
+        <item>Jorden</item>
+        <item>Jorden</item>
+        <item>Guld</item>
+        <item>Guldtärningar</item>
+        <item>Droppar</item>
+
+    </string-array>
+
+
+
+</resources>

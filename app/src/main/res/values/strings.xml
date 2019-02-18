@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">Device Backgrounds</string>
+
+
+    <!-- TAB -->
+
+    <string name="gallery">GALLERY</string>
+    <string name="favorites">FAVORITES</string>
+
+    <!-- SAVE FRAGMENT -->
+    <string name="save_frag_title_text">SPARA MARKERADE BILDER</string>
+    <string name="save_frag_info_text">Antal markerade bilder att sparas: </string>
+    <string name="save_frag_save_button_text">SPARA</string>
+
+    <!-- TRASCH CAN FRAGMENT -->
+    <string name="trash_remove_marked_gallery">Remove checked from checkboxes in Gallery</string>
+    <string name="trash_remove_marked_images_favorites">Remove checked images in Favorites</string>
+    <string name="trash_remove_all_favorites">Remove all Favorites</string>
+
+    <!-- INTRO ANIM FRAGMENT -->
+    <string name="smiley_statement">Goddag!!! Ledsen att det är så begränsat med bilder, men tanken är
+    att de ska hålla bästa möjliga kvalitet och fyllas ut så småningom. Dessutom kommer telefonens galleri
+    så småningom integreras med appen så favoritet och bildspel kommer att kunna skapas utifrån detta
+    Tack för ordet - Jag kommer inte tillbaka nästa du appen startar - dock kan du hitta mig under Info
+    </string>
+
+    <!-- HELP FRAGMENT -->
+    <string name="help_fragment_title">HUR FUNGERAR APPEN</string>
+
+    <string name="help_fragment_intro_text">Med den här appen kan du enkelt bygga upp ditt eget bibliotek
+        med bakgrundsbilder - både till låstskärm och hemskärmen. För varje bild kan du markera om
+        bilden ska visas får båda eller endera skärm. Markera de bilder du önskar använda och klicka
+        på diskett-symbolen i toolbaren högst upp. Klicka på spara-knappen. Klicka sedan på timer-symbolen
+        i toolbaren och välj hur ofta bakgrundsbilden ska bytas och slutligen aktiverar du tjänsten.
+
+    </string>
+
+    <string name="help_fragment_symbols_title">SYMBOLER</string>
+
+    <string name="help_fragment_locked_symbol_text">låst skärm</string>
+    <string name="help_fragment_home_symbol_text">hem skärm</string>
+    <string name="help_fragment_all_symbol_text">låst skärm och hem skärm</string>
+
+
+
+    <!-- TIMER FRAGMENT -->
+
+    <string name="timer_frag_title_text">STÄLL IN TID FÖR ÄNDRING AV BAKGRUND</string>
+    <string name="service_text">Activate Service to change wallpaper regularly</string>
+    <string name="timer1_frag_text">var tionde sekund</string>
+    <string name="timer2_frag_text">varje minut</string>
+    <string name="timer3_frag_text">varje timme</string>
+    <string name="timer4_frag_text">varje dag</string>
+
+</resources>

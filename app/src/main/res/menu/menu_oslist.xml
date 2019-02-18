@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- flytta till vänster - hur??? angående försök med gravity -->
+
+    <item
+        android:id="@+id/action_wiki"
+
+        android:title="Back"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_goback"
+
+        android:title="Back"
+        app:showAsAction="always"/>
+
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="help_fragment_symbol_dimen">30dp</dimen>
+    <dimen name="help_fragment_symbol_margin_left">5dp</dimen>
+    <dimen name="line_space">5dp</dimen>
+    <dimen name="fragment_cross_dimen">30dp</dimen>
+    <dimen name="fragment_border_margin">10dp</dimen>
+
+</resources>
